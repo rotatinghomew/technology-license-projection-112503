@@ -1938,5 +1938,45 @@
     "application": "薄膜",
     "region": "华东",
     "test_spend_cny": 0
+  },
+  {
+    "record": "K49-E0",
+    "opportunity": "K49",
+    "stage": "咨询",
+    "day": 99,
+    "known_at": 99,
+    "application": "面板",
+    "region": "华南",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K49-E1",
+    "opportunity": "K49",
+    "stage": "保密验证",
+    "day": 111,
+    "known_at": 112,
+    "application": "面板",
+    "region": "华南",
+    "test_spend_cny": 3680
+  },
+  {
+    "record": "K50-E0",
+    "opportunity": "K50",
+    "stage": "咨询",
+    "day": 102,
+    "known_at": 103,
+    "application": "面板",
+    "region": "华东",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K50-E1",
+    "opportunity": "K50",
+    "stage": "送样",
+    "day": 109,
+    "known_at": 111,
+    "application": "面板",
+    "region": "华东",
+    "test_spend_cny": 0
   }
 ]

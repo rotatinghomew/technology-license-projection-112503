@@ -558,5 +558,35 @@
     "application": "薄膜",
     "region": "华东",
     "start": 105
+  },
+  {
+    "source": "Z49",
+    "opportunity": "K49",
+    "group": "集12",
+    "site": "厂02",
+    "technology": "光学检查",
+    "application": "面板",
+    "region": "华南",
+    "start": 99
+  },
+  {
+    "source": "ZS49",
+    "opportunity": "K49",
+    "group": "集12",
+    "site": "厂06",
+    "technology": "光学检查",
+    "application": "面板",
+    "region": "华南",
+    "start": 105
+  },
+  {
+    "source": "Z50",
+    "opportunity": "K50",
+    "group": "集12",
+    "site": "厂06",
+    "technology": "光学检查",
+    "application": "面板",
+    "region": "华东",
+    "start": 102
   }
 ]
