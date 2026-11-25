@@ -1,0 +1,96 @@
+{
+  "historical_cutoffs": [
+    45,
+    76,
+    103
+  ],
+  "analysis_cutoff": 117,
+  "carry_in_reliable_from": 30,
+  "horizons_days": [
+    14,
+    45
+  ],
+  "application_aliases": {
+    "平板封装": "封装"
+  },
+  "region_groups": {
+    "沿海": [
+      "华东",
+      "华南"
+    ],
+    "全国": [
+      "华东",
+      "华南",
+      "华北"
+    ]
+  },
+  "sub_license": [
+    {
+      "owner": "集02",
+      "agent": "厂07",
+      "technology": "光学检查",
+      "region": "华东",
+      "starts": 56,
+      "ends": 87
+    }
+  ],
+  "options": [
+    {
+      "id": "O1",
+      "tech": "光学检查",
+      "field": "面板",
+      "exclusive_regions": [
+        "华东",
+        "华南"
+      ],
+      "term": [
+        118,
+        146
+      ]
+    },
+    {
+      "id": "O2",
+      "tech": "光学检查",
+      "field": "面板",
+      "exclusive_regions": [
+        "华东"
+      ],
+      "term": [
+        118,
+        146
+      ]
+    },
+    {
+      "id": "O3",
+      "tech": "洁净送料",
+      "field": "封装",
+      "exclusive_regions": [
+        "华南"
+      ],
+      "term": [
+        118,
+        143
+      ]
+    }
+  ],
+  "approval": [
+    {
+      "id": "A12",
+      "option": "O1",
+      "group": "集02",
+      "approved_regions": [
+        "华东"
+      ],
+      "pending_regions": [
+        "华南"
+      ],
+      "known_at": 119
+    },
+    {
+      "id": "A13",
+      "option": "O3",
+      "status": "范围争议",
+      "known_at": 120
+    }
+  ]
+}

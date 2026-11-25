@@ -1,0 +1,1942 @@
+[
+  {
+    "record": "K01-E0",
+    "opportunity": "K01",
+    "stage": "咨询",
+    "day": 6,
+    "known_at": 7,
+    "application": "面板",
+    "region": "华南",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K01-E1",
+    "opportunity": "K01",
+    "stage": "送样",
+    "day": 10,
+    "known_at": 11,
+    "application": "面板",
+    "region": "华南",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K01-E2",
+    "opportunity": "K01",
+    "stage": "保密验证",
+    "day": 14,
+    "known_at": 15,
+    "application": "面板",
+    "region": "华南",
+    "test_spend_cny": 1290
+  },
+  {
+    "record": "K01-T",
+    "opportunity": "K01",
+    "stage": "失验",
+    "day": 23,
+    "known_at": 24,
+    "application": "面板",
+    "region": "华南",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K02-E0",
+    "opportunity": "K02",
+    "stage": "咨询",
+    "day": 8,
+    "known_at": 10,
+    "application": "面板",
+    "region": "华北",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K02-E1",
+    "opportunity": "K02",
+    "stage": "送样",
+    "day": 13,
+    "known_at": 15,
+    "application": "面板",
+    "region": "华北",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K02-E2",
+    "opportunity": "K02",
+    "stage": "保密验证",
+    "day": 18,
+    "known_at": 20,
+    "application": "面板",
+    "region": "华北",
+    "test_spend_cny": 1380
+  },
+  {
+    "record": "K02-E3",
+    "opportunity": "K02",
+    "stage": "报价",
+    "day": 23,
+    "known_at": 25,
+    "application": "面板",
+    "region": "华北",
+    "test_spend_cny": 1380
+  },
+  {
+    "record": "K02-T",
+    "opportunity": "K02",
+    "stage": "自愿退出",
+    "day": 35,
+    "known_at": 37,
+    "application": "面板",
+    "region": "华北",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K03-E0",
+    "opportunity": "K03",
+    "stage": "咨询",
+    "day": 10,
+    "known_at": 10,
+    "application": "薄膜",
+    "region": "华东",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K03-E1",
+    "opportunity": "K03",
+    "stage": "送样",
+    "day": 16,
+    "known_at": 16,
+    "application": "薄膜",
+    "region": "华东",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K03-E2",
+    "opportunity": "K03",
+    "stage": "保密验证",
+    "day": 22,
+    "known_at": 22,
+    "application": "薄膜",
+    "region": "华东",
+    "test_spend_cny": 1470
+  },
+  {
+    "record": "K03-E3",
+    "opportunity": "K03",
+    "stage": "报价",
+    "day": 28,
+    "known_at": 28,
+    "application": "薄膜",
+    "region": "华东",
+    "test_spend_cny": 1470
+  },
+  {
+    "record": "K03-E4",
+    "opportunity": "K03",
+    "stage": "申请签约",
+    "day": 34,
+    "known_at": 34,
+    "application": "薄膜",
+    "region": "华东",
+    "test_spend_cny": 1470
+  },
+  {
+    "record": "K04-E0",
+    "opportunity": "K04",
+    "stage": "咨询",
+    "day": 12,
+    "known_at": 13,
+    "application": "薄膜",
+    "region": "华北",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K04-E1",
+    "opportunity": "K04",
+    "stage": "送样",
+    "day": 15,
+    "known_at": 16,
+    "application": "薄膜",
+    "region": "华北",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K05-E0",
+    "opportunity": "K05",
+    "stage": "咨询",
+    "day": 14,
+    "known_at": 16,
+    "application": "薄膜",
+    "region": "华东",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K05-E1",
+    "opportunity": "K05",
+    "stage": "送样",
+    "day": 18,
+    "known_at": 20,
+    "application": "薄膜",
+    "region": "华东",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K05-E2",
+    "opportunity": "K05",
+    "stage": "保密验证",
+    "day": 22,
+    "known_at": 24,
+    "application": "薄膜",
+    "region": "华东",
+    "test_spend_cny": 1650
+  },
+  {
+    "record": "K05-T",
+    "opportunity": "K05",
+    "stage": "被排他挡住",
+    "day": 43,
+    "known_at": 43,
+    "application": "薄膜",
+    "region": "华东",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K06-E0",
+    "opportunity": "K06",
+    "stage": "咨询",
+    "day": 16,
+    "known_at": 16,
+    "application": "封装",
+    "region": "华南",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K06-E1",
+    "opportunity": "K06",
+    "stage": "送样",
+    "day": 21,
+    "known_at": 21,
+    "application": "封装",
+    "region": "华南",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K06-E2",
+    "opportunity": "K06",
+    "stage": "保密验证",
+    "day": 26,
+    "known_at": 26,
+    "application": "封装",
+    "region": "华南",
+    "test_spend_cny": 1740
+  },
+  {
+    "record": "K06-E3",
+    "opportunity": "K06",
+    "stage": "报价",
+    "day": 31,
+    "known_at": 31,
+    "application": "封装",
+    "region": "华南",
+    "test_spend_cny": 1740
+  },
+  {
+    "record": "K06-T",
+    "opportunity": "K06",
+    "stage": "签约",
+    "day": 55,
+    "known_at": 56,
+    "application": "封装",
+    "region": "华南",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K07-E1",
+    "opportunity": "K07",
+    "stage": "送样",
+    "day": 24,
+    "known_at": 25,
+    "application": "封装",
+    "region": "华北",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K07-E2",
+    "opportunity": "K07",
+    "stage": "保密验证",
+    "day": 30,
+    "known_at": 31,
+    "application": "封装",
+    "region": "华北",
+    "test_spend_cny": 1830
+  },
+  {
+    "record": "K07-E3",
+    "opportunity": "K07",
+    "stage": "报价",
+    "day": 36,
+    "known_at": 37,
+    "application": "封装",
+    "region": "华北",
+    "test_spend_cny": 1830
+  },
+  {
+    "record": "K07-E4",
+    "opportunity": "K07",
+    "stage": "申请签约",
+    "day": 42,
+    "known_at": 43,
+    "application": "封装",
+    "region": "华北",
+    "test_spend_cny": 1830
+  },
+  {
+    "record": "K07-T",
+    "opportunity": "K07",
+    "stage": "失验",
+    "day": 48,
+    "known_at": 50,
+    "application": "封装",
+    "region": "华北",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K08-E0",
+    "opportunity": "K08",
+    "stage": "咨询",
+    "day": 20,
+    "known_at": 22,
+    "application": "封装",
+    "region": "华南",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K08-E1",
+    "opportunity": "K08",
+    "stage": "送样",
+    "day": 23,
+    "known_at": 25,
+    "application": "封装",
+    "region": "华南",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K08-T",
+    "opportunity": "K08",
+    "stage": "自愿退出",
+    "day": 32,
+    "known_at": 35,
+    "application": "封装",
+    "region": "华南",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K09-E0",
+    "opportunity": "K09",
+    "stage": "咨询",
+    "day": 22,
+    "known_at": 22,
+    "application": "面板",
+    "region": "华北",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K09-E1",
+    "opportunity": "K09",
+    "stage": "送样",
+    "day": 26,
+    "known_at": 26,
+    "application": "面板",
+    "region": "华北",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K09-E2",
+    "opportunity": "K09",
+    "stage": "保密验证",
+    "day": 30,
+    "known_at": 30,
+    "application": "面板",
+    "region": "华北",
+    "test_spend_cny": 2010
+  },
+  {
+    "record": "K10-E0",
+    "opportunity": "K10",
+    "stage": "咨询",
+    "day": 24,
+    "known_at": 25,
+    "application": "面板",
+    "region": "华东",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K10-E1",
+    "opportunity": "K10",
+    "stage": "送样",
+    "day": 29,
+    "known_at": 30,
+    "application": "面板",
+    "region": "华东",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K10-E2",
+    "opportunity": "K10",
+    "stage": "保密验证",
+    "day": 34,
+    "known_at": 35,
+    "application": "面板",
+    "region": "华东",
+    "test_spend_cny": 2100
+  },
+  {
+    "record": "K10-E3",
+    "opportunity": "K10",
+    "stage": "报价",
+    "day": 39,
+    "known_at": 40,
+    "application": "面板",
+    "region": "华东",
+    "test_spend_cny": 2100
+  },
+  {
+    "record": "K11-E0",
+    "opportunity": "K11",
+    "stage": "咨询",
+    "day": 26,
+    "known_at": 28,
+    "application": "面板",
+    "region": "华南",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K11-E1",
+    "opportunity": "K11",
+    "stage": "送样",
+    "day": 32,
+    "known_at": 34,
+    "application": "面板",
+    "region": "华南",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K11-E2",
+    "opportunity": "K11",
+    "stage": "保密验证",
+    "day": 38,
+    "known_at": 40,
+    "application": "面板",
+    "region": "华南",
+    "test_spend_cny": 2190
+  },
+  {
+    "record": "K11-E3",
+    "opportunity": "K11",
+    "stage": "报价",
+    "day": 44,
+    "known_at": 46,
+    "application": "面板",
+    "region": "华南",
+    "test_spend_cny": 2190
+  },
+  {
+    "record": "K11-E4",
+    "opportunity": "K11",
+    "stage": "申请签约",
+    "day": 50,
+    "known_at": 52,
+    "application": "面板",
+    "region": "华南",
+    "test_spend_cny": 2190
+  },
+  {
+    "record": "K11-T",
+    "opportunity": "K11",
+    "stage": "被排他挡住",
+    "day": 68,
+    "known_at": 69,
+    "application": "面板",
+    "region": "华南",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K12-E0",
+    "opportunity": "K12",
+    "stage": "咨询",
+    "day": 28,
+    "known_at": 28,
+    "application": "薄膜",
+    "region": "华东",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K12-E1",
+    "opportunity": "K12",
+    "stage": "送样",
+    "day": 31,
+    "known_at": 31,
+    "application": "薄膜",
+    "region": "华东",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K12-T",
+    "opportunity": "K12",
+    "stage": "签约",
+    "day": 52,
+    "known_at": 54,
+    "application": "薄膜",
+    "region": "华东",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K13-E0",
+    "opportunity": "K13",
+    "stage": "咨询",
+    "day": 30,
+    "known_at": 31,
+    "application": "薄膜",
+    "region": "华南",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K13-E1",
+    "opportunity": "K13",
+    "stage": "送样",
+    "day": 34,
+    "known_at": 35,
+    "application": "薄膜",
+    "region": "华南",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K13-E2",
+    "opportunity": "K13",
+    "stage": "保密验证",
+    "day": 38,
+    "known_at": 39,
+    "application": "薄膜",
+    "region": "华南",
+    "test_spend_cny": 2370
+  },
+  {
+    "record": "K13-T",
+    "opportunity": "K13",
+    "stage": "失验",
+    "day": 62,
+    "known_at": 65,
+    "application": "薄膜",
+    "region": "华南",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K14-E1",
+    "opportunity": "K14",
+    "stage": "送样",
+    "day": 37,
+    "known_at": 39,
+    "application": "薄膜",
+    "region": "华北",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K14-E2",
+    "opportunity": "K14",
+    "stage": "保密验证",
+    "day": 42,
+    "known_at": 44,
+    "application": "薄膜",
+    "region": "华北",
+    "test_spend_cny": 2460
+  },
+  {
+    "record": "K14-E3",
+    "opportunity": "K14",
+    "stage": "报价",
+    "day": 47,
+    "known_at": 49,
+    "application": "薄膜",
+    "region": "华北",
+    "test_spend_cny": 2460
+  },
+  {
+    "record": "K14-T",
+    "opportunity": "K14",
+    "stage": "自愿退出",
+    "day": 53,
+    "known_at": 57,
+    "application": "薄膜",
+    "region": "华北",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K15-E0",
+    "opportunity": "K15",
+    "stage": "咨询",
+    "day": 34,
+    "known_at": 34,
+    "application": "封装",
+    "region": "华东",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K15-E1",
+    "opportunity": "K15",
+    "stage": "送样",
+    "day": 40,
+    "known_at": 40,
+    "application": "封装",
+    "region": "华东",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K15-E2",
+    "opportunity": "K15",
+    "stage": "保密验证",
+    "day": 46,
+    "known_at": 46,
+    "application": "封装",
+    "region": "华东",
+    "test_spend_cny": 2550
+  },
+  {
+    "record": "K15-E3",
+    "opportunity": "K15",
+    "stage": "报价",
+    "day": 52,
+    "known_at": 52,
+    "application": "封装",
+    "region": "华东",
+    "test_spend_cny": 2550
+  },
+  {
+    "record": "K15-E4",
+    "opportunity": "K15",
+    "stage": "申请签约",
+    "day": 58,
+    "known_at": 58,
+    "application": "封装",
+    "region": "华东",
+    "test_spend_cny": 2550
+  },
+  {
+    "record": "K16-E0",
+    "opportunity": "K16",
+    "stage": "咨询",
+    "day": 36,
+    "known_at": 37,
+    "application": "封装",
+    "region": "华北",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K16-E1",
+    "opportunity": "K16",
+    "stage": "送样",
+    "day": 39,
+    "known_at": 40,
+    "application": "封装",
+    "region": "华北",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K17-E0",
+    "opportunity": "K17",
+    "stage": "咨询",
+    "day": 38,
+    "known_at": 40,
+    "application": "封装",
+    "region": "华东",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K17-E1",
+    "opportunity": "K17",
+    "stage": "送样",
+    "day": 42,
+    "known_at": 44,
+    "application": "封装",
+    "region": "华东",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K17-E2",
+    "opportunity": "K17",
+    "stage": "保密验证",
+    "day": 46,
+    "known_at": 48,
+    "application": "封装",
+    "region": "华东",
+    "test_spend_cny": 2730
+  },
+  {
+    "record": "K17-T",
+    "opportunity": "K17",
+    "stage": "被排他挡住",
+    "day": 61,
+    "known_at": 63,
+    "application": "封装",
+    "region": "华东",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K18-E0",
+    "opportunity": "K18",
+    "stage": "咨询",
+    "day": 40,
+    "known_at": 40,
+    "application": "面板",
+    "region": "华南",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K18-E1",
+    "opportunity": "K18",
+    "stage": "送样",
+    "day": 45,
+    "known_at": 45,
+    "application": "面板",
+    "region": "华南",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K18-E2",
+    "opportunity": "K18",
+    "stage": "保密验证",
+    "day": 50,
+    "known_at": 50,
+    "application": "面板",
+    "region": "华南",
+    "test_spend_cny": 2820
+  },
+  {
+    "record": "K18-E3",
+    "opportunity": "K18",
+    "stage": "报价",
+    "day": 55,
+    "known_at": 55,
+    "application": "面板",
+    "region": "华南",
+    "test_spend_cny": 2820
+  },
+  {
+    "record": "K18-T",
+    "opportunity": "K18",
+    "stage": "签约",
+    "day": 73,
+    "known_at": 76,
+    "application": "面板",
+    "region": "华南",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K19-E0",
+    "opportunity": "K19",
+    "stage": "咨询",
+    "day": 42,
+    "known_at": 43,
+    "application": "面板",
+    "region": "华北",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K19-E1",
+    "opportunity": "K19",
+    "stage": "送样",
+    "day": 48,
+    "known_at": 49,
+    "application": "面板",
+    "region": "华北",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K19-E2",
+    "opportunity": "K19",
+    "stage": "保密验证",
+    "day": 54,
+    "known_at": 55,
+    "application": "面板",
+    "region": "华北",
+    "test_spend_cny": 2910
+  },
+  {
+    "record": "K19-E3",
+    "opportunity": "K19",
+    "stage": "报价",
+    "day": 60,
+    "known_at": 61,
+    "application": "面板",
+    "region": "华北",
+    "test_spend_cny": 2910
+  },
+  {
+    "record": "K19-E4",
+    "opportunity": "K19",
+    "stage": "申请签约",
+    "day": 66,
+    "known_at": 67,
+    "application": "面板",
+    "region": "华北",
+    "test_spend_cny": 2910
+  },
+  {
+    "record": "K19-T",
+    "opportunity": "K19",
+    "stage": "失验",
+    "day": 87,
+    "known_at": 91,
+    "application": "面板",
+    "region": "华北",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K20-E0",
+    "opportunity": "K20",
+    "stage": "咨询",
+    "day": 44,
+    "known_at": 46,
+    "application": "面板",
+    "region": "华南",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K20-E1",
+    "opportunity": "K20",
+    "stage": "送样",
+    "day": 47,
+    "known_at": 49,
+    "application": "面板",
+    "region": "华南",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K20-T",
+    "opportunity": "K20",
+    "stage": "自愿退出",
+    "day": 71,
+    "known_at": 71,
+    "application": "面板",
+    "region": "华南",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K21-E1",
+    "opportunity": "K21",
+    "stage": "送样",
+    "day": 50,
+    "known_at": 50,
+    "application": "薄膜",
+    "region": "华北",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K21-E2",
+    "opportunity": "K21",
+    "stage": "保密验证",
+    "day": 54,
+    "known_at": 54,
+    "application": "薄膜",
+    "region": "华北",
+    "test_spend_cny": 3090
+  },
+  {
+    "record": "K22-E0",
+    "opportunity": "K22",
+    "stage": "咨询",
+    "day": 48,
+    "known_at": 49,
+    "application": "薄膜",
+    "region": "华东",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K22-E1",
+    "opportunity": "K22",
+    "stage": "送样",
+    "day": 53,
+    "known_at": 54,
+    "application": "薄膜",
+    "region": "华东",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K22-E2",
+    "opportunity": "K22",
+    "stage": "保密验证",
+    "day": 58,
+    "known_at": 59,
+    "application": "薄膜",
+    "region": "华东",
+    "test_spend_cny": 3180
+  },
+  {
+    "record": "K22-E3",
+    "opportunity": "K22",
+    "stage": "报价",
+    "day": 63,
+    "known_at": 64,
+    "application": "薄膜",
+    "region": "华东",
+    "test_spend_cny": 3180
+  },
+  {
+    "record": "K23-E0",
+    "opportunity": "K23",
+    "stage": "咨询",
+    "day": 50,
+    "known_at": 52,
+    "application": "薄膜",
+    "region": "华南",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K23-E1",
+    "opportunity": "K23",
+    "stage": "送样",
+    "day": 56,
+    "known_at": 58,
+    "application": "薄膜",
+    "region": "华南",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K23-E2",
+    "opportunity": "K23",
+    "stage": "保密验证",
+    "day": 62,
+    "known_at": 64,
+    "application": "薄膜",
+    "region": "华南",
+    "test_spend_cny": 3270
+  },
+  {
+    "record": "K23-E3",
+    "opportunity": "K23",
+    "stage": "报价",
+    "day": 68,
+    "known_at": 70,
+    "application": "薄膜",
+    "region": "华南",
+    "test_spend_cny": 3270
+  },
+  {
+    "record": "K23-E4",
+    "opportunity": "K23",
+    "stage": "申请签约",
+    "day": 74,
+    "known_at": 76,
+    "application": "薄膜",
+    "region": "华南",
+    "test_spend_cny": 3270
+  },
+  {
+    "record": "K23-T",
+    "opportunity": "K23",
+    "stage": "被排他挡住",
+    "day": 86,
+    "known_at": 89,
+    "application": "薄膜",
+    "region": "华南",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K24-E0",
+    "opportunity": "K24",
+    "stage": "咨询",
+    "day": 52,
+    "known_at": 52,
+    "application": "封装",
+    "region": "华东",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K24-E1",
+    "opportunity": "K24",
+    "stage": "送样",
+    "day": 55,
+    "known_at": 55,
+    "application": "封装",
+    "region": "华东",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K24-T",
+    "opportunity": "K24",
+    "stage": "签约",
+    "day": 70,
+    "known_at": 74,
+    "application": "封装",
+    "region": "华东",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K25-E0",
+    "opportunity": "K25",
+    "stage": "咨询",
+    "day": 54,
+    "known_at": 55,
+    "application": "封装",
+    "region": "华南",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K25-E1",
+    "opportunity": "K25",
+    "stage": "送样",
+    "day": 58,
+    "known_at": 59,
+    "application": "封装",
+    "region": "华南",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K25-E2",
+    "opportunity": "K25",
+    "stage": "保密验证",
+    "day": 62,
+    "known_at": 63,
+    "application": "封装",
+    "region": "华南",
+    "test_spend_cny": 3450
+  },
+  {
+    "record": "K25-T",
+    "opportunity": "K25",
+    "stage": "失验",
+    "day": 80,
+    "known_at": 80,
+    "application": "封装",
+    "region": "华南",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K26-E0",
+    "opportunity": "K26",
+    "stage": "咨询",
+    "day": 56,
+    "known_at": 58,
+    "application": "封装",
+    "region": "华北",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K26-E1",
+    "opportunity": "K26",
+    "stage": "送样",
+    "day": 61,
+    "known_at": 63,
+    "application": "封装",
+    "region": "华北",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K26-E2",
+    "opportunity": "K26",
+    "stage": "保密验证",
+    "day": 66,
+    "known_at": 68,
+    "application": "封装",
+    "region": "华北",
+    "test_spend_cny": 3540
+  },
+  {
+    "record": "K26-E3",
+    "opportunity": "K26",
+    "stage": "报价",
+    "day": 71,
+    "known_at": 73,
+    "application": "封装",
+    "region": "华北",
+    "test_spend_cny": 3540
+  },
+  {
+    "record": "K26-T",
+    "opportunity": "K26",
+    "stage": "自愿退出",
+    "day": 92,
+    "known_at": 93,
+    "application": "封装",
+    "region": "华北",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K27-E0",
+    "opportunity": "K27",
+    "stage": "咨询",
+    "day": 58,
+    "known_at": 58,
+    "application": "面板",
+    "region": "华东",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K27-E1",
+    "opportunity": "K27",
+    "stage": "送样",
+    "day": 64,
+    "known_at": 64,
+    "application": "面板",
+    "region": "华东",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K27-E2",
+    "opportunity": "K27",
+    "stage": "保密验证",
+    "day": 70,
+    "known_at": 70,
+    "application": "面板",
+    "region": "华东",
+    "test_spend_cny": 3630
+  },
+  {
+    "record": "K27-E3",
+    "opportunity": "K27",
+    "stage": "报价",
+    "day": 76,
+    "known_at": 76,
+    "application": "面板",
+    "region": "华东",
+    "test_spend_cny": 3630
+  },
+  {
+    "record": "K27-E4",
+    "opportunity": "K27",
+    "stage": "申请签约",
+    "day": 82,
+    "known_at": 82,
+    "application": "面板",
+    "region": "华东",
+    "test_spend_cny": 3630
+  },
+  {
+    "record": "K28-E1",
+    "opportunity": "K28",
+    "stage": "送样",
+    "day": 63,
+    "known_at": 64,
+    "application": "面板",
+    "region": "华北",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K29-E0",
+    "opportunity": "K29",
+    "stage": "咨询",
+    "day": 62,
+    "known_at": 64,
+    "application": "面板",
+    "region": "华东",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K29-E1",
+    "opportunity": "K29",
+    "stage": "送样",
+    "day": 66,
+    "known_at": 68,
+    "application": "面板",
+    "region": "华东",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K29-E2",
+    "opportunity": "K29",
+    "stage": "保密验证",
+    "day": 70,
+    "known_at": 72,
+    "application": "面板",
+    "region": "华东",
+    "test_spend_cny": 3810
+  },
+  {
+    "record": "K29-T",
+    "opportunity": "K29",
+    "stage": "被排他挡住",
+    "day": 79,
+    "known_at": 83,
+    "application": "面板",
+    "region": "华东",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K30-E0",
+    "opportunity": "K30",
+    "stage": "咨询",
+    "day": 64,
+    "known_at": 64,
+    "application": "薄膜",
+    "region": "华南",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K30-E1",
+    "opportunity": "K30",
+    "stage": "送样",
+    "day": 69,
+    "known_at": 69,
+    "application": "薄膜",
+    "region": "华南",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K30-E2",
+    "opportunity": "K30",
+    "stage": "保密验证",
+    "day": 74,
+    "known_at": 74,
+    "application": "薄膜",
+    "region": "华南",
+    "test_spend_cny": 3900
+  },
+  {
+    "record": "K30-E3",
+    "opportunity": "K30",
+    "stage": "报价",
+    "day": 79,
+    "known_at": 79,
+    "application": "薄膜",
+    "region": "华南",
+    "test_spend_cny": 3900
+  },
+  {
+    "record": "K30-T",
+    "opportunity": "K30",
+    "stage": "签约",
+    "day": 91,
+    "known_at": 91,
+    "application": "薄膜",
+    "region": "华南",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K31-E0",
+    "opportunity": "K31",
+    "stage": "咨询",
+    "day": 66,
+    "known_at": 67,
+    "application": "薄膜",
+    "region": "华北",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K31-E1",
+    "opportunity": "K31",
+    "stage": "送样",
+    "day": 72,
+    "known_at": 73,
+    "application": "薄膜",
+    "region": "华北",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K31-E2",
+    "opportunity": "K31",
+    "stage": "保密验证",
+    "day": 78,
+    "known_at": 79,
+    "application": "薄膜",
+    "region": "华北",
+    "test_spend_cny": 3990
+  },
+  {
+    "record": "K31-E3",
+    "opportunity": "K31",
+    "stage": "报价",
+    "day": 84,
+    "known_at": 85,
+    "application": "薄膜",
+    "region": "华北",
+    "test_spend_cny": 3990
+  },
+  {
+    "record": "K31-E4",
+    "opportunity": "K31",
+    "stage": "申请签约",
+    "day": 90,
+    "known_at": 91,
+    "application": "薄膜",
+    "region": "华北",
+    "test_spend_cny": 3990
+  },
+  {
+    "record": "K31-T",
+    "opportunity": "K31",
+    "stage": "失验",
+    "day": 105,
+    "known_at": 106,
+    "application": "薄膜",
+    "region": "华北",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K32-E0",
+    "opportunity": "K32",
+    "stage": "咨询",
+    "day": 68,
+    "known_at": 70,
+    "application": "薄膜",
+    "region": "华南",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K32-E1",
+    "opportunity": "K32",
+    "stage": "送样",
+    "day": 71,
+    "known_at": 73,
+    "application": "薄膜",
+    "region": "华南",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K32-T",
+    "opportunity": "K32",
+    "stage": "自愿退出",
+    "day": 89,
+    "known_at": 91,
+    "application": "薄膜",
+    "region": "华南",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K33-E0",
+    "opportunity": "K33",
+    "stage": "咨询",
+    "day": 70,
+    "known_at": 70,
+    "application": "封装",
+    "region": "华北",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K33-E1",
+    "opportunity": "K33",
+    "stage": "送样",
+    "day": 74,
+    "known_at": 74,
+    "application": "封装",
+    "region": "华北",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K33-E2",
+    "opportunity": "K33",
+    "stage": "保密验证",
+    "day": 78,
+    "known_at": 78,
+    "application": "封装",
+    "region": "华北",
+    "test_spend_cny": 4170
+  },
+  {
+    "record": "K34-E0",
+    "opportunity": "K34",
+    "stage": "咨询",
+    "day": 72,
+    "known_at": 73,
+    "application": "封装",
+    "region": "华东",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K34-E1",
+    "opportunity": "K34",
+    "stage": "送样",
+    "day": 77,
+    "known_at": 78,
+    "application": "封装",
+    "region": "华东",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K34-E2",
+    "opportunity": "K34",
+    "stage": "保密验证",
+    "day": 82,
+    "known_at": 83,
+    "application": "封装",
+    "region": "华东",
+    "test_spend_cny": 4260
+  },
+  {
+    "record": "K34-E3",
+    "opportunity": "K34",
+    "stage": "报价",
+    "day": 87,
+    "known_at": 88,
+    "application": "封装",
+    "region": "华东",
+    "test_spend_cny": 4260
+  },
+  {
+    "record": "K35-E1",
+    "opportunity": "K35",
+    "stage": "送样",
+    "day": 80,
+    "known_at": 82,
+    "application": "封装",
+    "region": "华南",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K35-E2",
+    "opportunity": "K35",
+    "stage": "保密验证",
+    "day": 86,
+    "known_at": 88,
+    "application": "封装",
+    "region": "华南",
+    "test_spend_cny": 4350
+  },
+  {
+    "record": "K35-E3",
+    "opportunity": "K35",
+    "stage": "报价",
+    "day": 92,
+    "known_at": 94,
+    "application": "封装",
+    "region": "华南",
+    "test_spend_cny": 4350
+  },
+  {
+    "record": "K35-E4",
+    "opportunity": "K35",
+    "stage": "申请签约",
+    "day": 98,
+    "known_at": 100,
+    "application": "封装",
+    "region": "华南",
+    "test_spend_cny": 4350
+  },
+  {
+    "record": "K35-T",
+    "opportunity": "K35",
+    "stage": "被排他挡住",
+    "day": 104,
+    "known_at": 104,
+    "application": "封装",
+    "region": "华南",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K36-E0",
+    "opportunity": "K36",
+    "stage": "咨询",
+    "day": 76,
+    "known_at": 76,
+    "application": "面板",
+    "region": "华东",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K36-E1",
+    "opportunity": "K36",
+    "stage": "送样",
+    "day": 79,
+    "known_at": 79,
+    "application": "面板",
+    "region": "华东",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K36-T",
+    "opportunity": "K36",
+    "stage": "签约",
+    "day": 88,
+    "known_at": 89,
+    "application": "面板",
+    "region": "华东",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K37-E0",
+    "opportunity": "K37",
+    "stage": "咨询",
+    "day": 78,
+    "known_at": 79,
+    "application": "面板",
+    "region": "华南",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K37-E1",
+    "opportunity": "K37",
+    "stage": "送样",
+    "day": 82,
+    "known_at": 83,
+    "application": "面板",
+    "region": "华南",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K37-E2",
+    "opportunity": "K37",
+    "stage": "保密验证",
+    "day": 86,
+    "known_at": 87,
+    "application": "面板",
+    "region": "华南",
+    "test_spend_cny": 4530
+  },
+  {
+    "record": "K37-T",
+    "opportunity": "K37",
+    "stage": "失验",
+    "day": 98,
+    "known_at": 100,
+    "application": "面板",
+    "region": "华南",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K38-E0",
+    "opportunity": "K38",
+    "stage": "咨询",
+    "day": 80,
+    "known_at": 82,
+    "application": "面板",
+    "region": "华北",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K38-E1",
+    "opportunity": "K38",
+    "stage": "送样",
+    "day": 85,
+    "known_at": 87,
+    "application": "面板",
+    "region": "华北",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K38-E2",
+    "opportunity": "K38",
+    "stage": "保密验证",
+    "day": 90,
+    "known_at": 92,
+    "application": "面板",
+    "region": "华北",
+    "test_spend_cny": 4620
+  },
+  {
+    "record": "K38-E3",
+    "opportunity": "K38",
+    "stage": "报价",
+    "day": 95,
+    "known_at": 97,
+    "application": "面板",
+    "region": "华北",
+    "test_spend_cny": 4620
+  },
+  {
+    "record": "K38-T",
+    "opportunity": "K38",
+    "stage": "自愿退出",
+    "day": 110,
+    "known_at": 113,
+    "application": "面板",
+    "region": "华北",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K39-E0",
+    "opportunity": "K39",
+    "stage": "咨询",
+    "day": 82,
+    "known_at": 82,
+    "application": "薄膜",
+    "region": "华东",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K39-E1",
+    "opportunity": "K39",
+    "stage": "送样",
+    "day": 88,
+    "known_at": 88,
+    "application": "薄膜",
+    "region": "华东",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K39-E2",
+    "opportunity": "K39",
+    "stage": "保密验证",
+    "day": 94,
+    "known_at": 94,
+    "application": "薄膜",
+    "region": "华东",
+    "test_spend_cny": 4710
+  },
+  {
+    "record": "K39-E3",
+    "opportunity": "K39",
+    "stage": "报价",
+    "day": 100,
+    "known_at": 100,
+    "application": "薄膜",
+    "region": "华东",
+    "test_spend_cny": 4710
+  },
+  {
+    "record": "K39-E4",
+    "opportunity": "K39",
+    "stage": "申请签约",
+    "day": 106,
+    "known_at": 106,
+    "application": "薄膜",
+    "region": "华东",
+    "test_spend_cny": 4710
+  },
+  {
+    "record": "K40-E0",
+    "opportunity": "K40",
+    "stage": "咨询",
+    "day": 84,
+    "known_at": 85,
+    "application": "薄膜",
+    "region": "华北",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K40-E1",
+    "opportunity": "K40",
+    "stage": "送样",
+    "day": 87,
+    "known_at": 88,
+    "application": "薄膜",
+    "region": "华北",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K41-E0",
+    "opportunity": "K41",
+    "stage": "咨询",
+    "day": 86,
+    "known_at": 88,
+    "application": "薄膜",
+    "region": "华东",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K41-E1",
+    "opportunity": "K41",
+    "stage": "送样",
+    "day": 90,
+    "known_at": 92,
+    "application": "薄膜",
+    "region": "华东",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K41-E2",
+    "opportunity": "K41",
+    "stage": "保密验证",
+    "day": 94,
+    "known_at": 96,
+    "application": "薄膜",
+    "region": "华东",
+    "test_spend_cny": 4890
+  },
+  {
+    "record": "K41-T",
+    "opportunity": "K41",
+    "stage": "被排他挡住",
+    "day": 118,
+    "known_at": 119,
+    "application": "薄膜",
+    "region": "华东",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K42-E1",
+    "opportunity": "K42",
+    "stage": "送样",
+    "day": 93,
+    "known_at": 93,
+    "application": "封装",
+    "region": "华南",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K42-E2",
+    "opportunity": "K42",
+    "stage": "保密验证",
+    "day": 98,
+    "known_at": 98,
+    "application": "封装",
+    "region": "华南",
+    "test_spend_cny": 4980
+  },
+  {
+    "record": "K42-E3",
+    "opportunity": "K42",
+    "stage": "报价",
+    "day": 103,
+    "known_at": 103,
+    "application": "封装",
+    "region": "华南",
+    "test_spend_cny": 4980
+  },
+  {
+    "record": "K42-T",
+    "opportunity": "K42",
+    "stage": "签约",
+    "day": 109,
+    "known_at": 111,
+    "application": "封装",
+    "region": "华南",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K43-E0",
+    "opportunity": "K43",
+    "stage": "咨询",
+    "day": 90,
+    "known_at": 91,
+    "application": "封装",
+    "region": "华北",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K43-E1",
+    "opportunity": "K43",
+    "stage": "送样",
+    "day": 96,
+    "known_at": 97,
+    "application": "封装",
+    "region": "华北",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K43-E2",
+    "opportunity": "K43",
+    "stage": "保密验证",
+    "day": 102,
+    "known_at": 103,
+    "application": "封装",
+    "region": "华北",
+    "test_spend_cny": 5070
+  },
+  {
+    "record": "K43-E3",
+    "opportunity": "K43",
+    "stage": "报价",
+    "day": 108,
+    "known_at": 109,
+    "application": "封装",
+    "region": "华北",
+    "test_spend_cny": 5070
+  },
+  {
+    "record": "K43-E4",
+    "opportunity": "K43",
+    "stage": "申请签约",
+    "day": 114,
+    "known_at": 115,
+    "application": "封装",
+    "region": "华北",
+    "test_spend_cny": 5070
+  },
+  {
+    "record": "K43-T",
+    "opportunity": "K43",
+    "stage": "失验",
+    "day": 123,
+    "known_at": 126,
+    "application": "封装",
+    "region": "华北",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K44-E0",
+    "opportunity": "K44",
+    "stage": "咨询",
+    "day": 92,
+    "known_at": 94,
+    "application": "封装",
+    "region": "华南",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K44-E1",
+    "opportunity": "K44",
+    "stage": "送样",
+    "day": 95,
+    "known_at": 97,
+    "application": "封装",
+    "region": "华南",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K44-T",
+    "opportunity": "K44",
+    "stage": "自愿退出",
+    "day": 107,
+    "known_at": 111,
+    "application": "封装",
+    "region": "华南",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K45-E0",
+    "opportunity": "K45",
+    "stage": "咨询",
+    "day": 94,
+    "known_at": 94,
+    "application": "面板",
+    "region": "华北",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K45-E1",
+    "opportunity": "K45",
+    "stage": "送样",
+    "day": 98,
+    "known_at": 98,
+    "application": "面板",
+    "region": "华北",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K45-E2",
+    "opportunity": "K45",
+    "stage": "保密验证",
+    "day": 102,
+    "known_at": 102,
+    "application": "面板",
+    "region": "华北",
+    "test_spend_cny": 5250
+  },
+  {
+    "record": "K46-E0",
+    "opportunity": "K46",
+    "stage": "咨询",
+    "day": 96,
+    "known_at": 97,
+    "application": "面板",
+    "region": "华东",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K46-E1",
+    "opportunity": "K46",
+    "stage": "送样",
+    "day": 101,
+    "known_at": 102,
+    "application": "面板",
+    "region": "华东",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K46-E2",
+    "opportunity": "K46",
+    "stage": "保密验证",
+    "day": 106,
+    "known_at": 107,
+    "application": "面板",
+    "region": "华东",
+    "test_spend_cny": 5340
+  },
+  {
+    "record": "K46-E3",
+    "opportunity": "K46",
+    "stage": "报价",
+    "day": 111,
+    "known_at": 112,
+    "application": "面板",
+    "region": "华东",
+    "test_spend_cny": 5340
+  },
+  {
+    "record": "K47-E0",
+    "opportunity": "K47",
+    "stage": "咨询",
+    "day": 98,
+    "known_at": 100,
+    "application": "面板",
+    "region": "华南",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K47-E1",
+    "opportunity": "K47",
+    "stage": "送样",
+    "day": 104,
+    "known_at": 106,
+    "application": "面板",
+    "region": "华南",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K47-E2",
+    "opportunity": "K47",
+    "stage": "保密验证",
+    "day": 110,
+    "known_at": 112,
+    "application": "面板",
+    "region": "华南",
+    "test_spend_cny": 5430
+  },
+  {
+    "record": "K47-E3",
+    "opportunity": "K47",
+    "stage": "报价",
+    "day": 116,
+    "known_at": 118,
+    "application": "面板",
+    "region": "华南",
+    "test_spend_cny": 5430
+  },
+  {
+    "record": "K47-E4",
+    "opportunity": "K47",
+    "stage": "申请签约",
+    "day": 122,
+    "known_at": 124,
+    "application": "面板",
+    "region": "华南",
+    "test_spend_cny": 5430
+  },
+  {
+    "record": "K47-T",
+    "opportunity": "K47",
+    "stage": "被排他挡住",
+    "day": 143,
+    "known_at": 145,
+    "application": "面板",
+    "region": "华南",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K48-E0",
+    "opportunity": "K48",
+    "stage": "咨询",
+    "day": 100,
+    "known_at": 100,
+    "application": "薄膜",
+    "region": "华东",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K48-E1",
+    "opportunity": "K48",
+    "stage": "送样",
+    "day": 103,
+    "known_at": 103,
+    "application": "薄膜",
+    "region": "华东",
+    "test_spend_cny": 0
+  },
+  {
+    "record": "K48-T",
+    "opportunity": "K48",
+    "stage": "签约",
+    "day": 127,
+    "known_at": 130,
+    "application": "薄膜",
+    "region": "华东",
+    "test_spend_cny": 0
+  }
+]

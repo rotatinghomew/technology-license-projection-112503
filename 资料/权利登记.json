@@ -1,0 +1,226 @@
+[
+  {
+    "license": "L05",
+    "opportunity": null,
+    "technology": "洁净送料",
+    "application": "薄膜",
+    "regions": [
+      "华东"
+    ],
+    "starts": 42,
+    "ends": 71,
+    "exclusive": true,
+    "known_at": 43,
+    "status": "有效"
+  },
+  {
+    "license": "L06",
+    "opportunity": "K06",
+    "technology": "涂布喷头",
+    "application": "封装",
+    "regions": [
+      "华南"
+    ],
+    "starts": 54,
+    "ends": 83,
+    "exclusive": true,
+    "known_at": 56,
+    "status": "有效"
+  },
+  {
+    "license": "L11",
+    "opportunity": null,
+    "technology": "洁净送料",
+    "application": "面板",
+    "regions": [
+      "华南"
+    ],
+    "starts": 67,
+    "ends": 96,
+    "exclusive": true,
+    "known_at": 69,
+    "status": "有效"
+  },
+  {
+    "license": "L12",
+    "opportunity": "K12",
+    "technology": "涂布喷头",
+    "application": "薄膜",
+    "regions": [
+      "华东"
+    ],
+    "starts": 51,
+    "ends": 80,
+    "exclusive": false,
+    "known_at": 54,
+    "status": "有效"
+  },
+  {
+    "license": "L17",
+    "opportunity": null,
+    "technology": "洁净送料",
+    "application": "封装",
+    "regions": [
+      "华东"
+    ],
+    "starts": 60,
+    "ends": 89,
+    "exclusive": true,
+    "known_at": 63,
+    "status": "有效"
+  },
+  {
+    "license": "L18",
+    "opportunity": "K18",
+    "technology": "涂布喷头",
+    "application": "面板",
+    "regions": [
+      "华南"
+    ],
+    "starts": 72,
+    "ends": 101,
+    "exclusive": true,
+    "known_at": 76,
+    "status": "有效"
+  },
+  {
+    "license": "L23",
+    "opportunity": null,
+    "technology": "洁净送料",
+    "application": "薄膜",
+    "regions": [
+      "华南"
+    ],
+    "starts": 85,
+    "ends": 114,
+    "exclusive": true,
+    "known_at": 89,
+    "status": "有效"
+  },
+  {
+    "license": "L24",
+    "opportunity": "K24",
+    "technology": "涂布喷头",
+    "application": "封装",
+    "regions": [
+      "华东"
+    ],
+    "starts": 69,
+    "ends": 98,
+    "exclusive": false,
+    "known_at": 74,
+    "status": "有效"
+  },
+  {
+    "license": "L29",
+    "opportunity": null,
+    "technology": "洁净送料",
+    "application": "面板",
+    "regions": [
+      "华东"
+    ],
+    "starts": 78,
+    "ends": 107,
+    "exclusive": true,
+    "known_at": 83,
+    "status": "有效"
+  },
+  {
+    "license": "L30",
+    "opportunity": "K30",
+    "technology": "涂布喷头",
+    "application": "薄膜",
+    "regions": [
+      "华南"
+    ],
+    "starts": 90,
+    "ends": 119,
+    "exclusive": true,
+    "known_at": 91,
+    "status": "有效"
+  },
+  {
+    "license": "L35",
+    "opportunity": null,
+    "technology": "洁净送料",
+    "application": "封装",
+    "regions": [
+      "华南"
+    ],
+    "starts": 103,
+    "ends": 132,
+    "exclusive": true,
+    "known_at": 104,
+    "status": "有效"
+  },
+  {
+    "license": "L36",
+    "opportunity": "K36",
+    "technology": "涂布喷头",
+    "application": "面板",
+    "regions": [
+      "华东"
+    ],
+    "starts": 87,
+    "ends": 116,
+    "exclusive": false,
+    "known_at": 89,
+    "status": "有效"
+  },
+  {
+    "license": "L41",
+    "opportunity": null,
+    "technology": "洁净送料",
+    "application": "薄膜",
+    "regions": [
+      "华东"
+    ],
+    "starts": 117,
+    "ends": 146,
+    "exclusive": true,
+    "known_at": 119,
+    "status": "有效"
+  },
+  {
+    "license": "L42",
+    "opportunity": "K42",
+    "technology": "涂布喷头",
+    "application": "封装",
+    "regions": [
+      "华南"
+    ],
+    "starts": 108,
+    "ends": 137,
+    "exclusive": true,
+    "known_at": 111,
+    "status": "有效"
+  },
+  {
+    "license": "L47",
+    "opportunity": null,
+    "technology": "洁净送料",
+    "application": "面板",
+    "regions": [
+      "华南"
+    ],
+    "starts": 142,
+    "ends": 171,
+    "exclusive": true,
+    "known_at": 145,
+    "status": "有效"
+  },
+  {
+    "license": "L48",
+    "opportunity": "K48",
+    "technology": "涂布喷头",
+    "application": "薄膜",
+    "regions": [
+      "华东"
+    ],
+    "starts": 126,
+    "ends": 155,
+    "exclusive": false,
+    "known_at": 130,
+    "status": "有效"
+  }
+]
